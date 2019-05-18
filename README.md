@@ -1,1 +1,1 @@
-# Talking_Face_Generation
+# Talking Face Generation by Conditional Recurrent Adversarial Network
