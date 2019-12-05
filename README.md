@@ -17,7 +17,7 @@ The Tensorflow implentation version will be published soon.
 
 ## Dataset
 The datasets we are trained on are [TCD](https://sigmedia.tcd.ie/TCDTIMIT/node/1)
-,[LFW](http://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html), (Voxceleb)[http://www.robots.ox.ac.uk/~vgg/data/voxceleb/] and [Obama](https://grail.cs.washington.edu/projects/AudioToObama/) set. Please ask the permission from the original provider.
+,[LFW](http://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html), [Voxceleb](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/) and [Obama](https://grail.cs.washington.edu/projects/AudioToObama/) set. Please ask the permission from the original provider.
 
 If you need help with the preprocessing code, please send me an email.
 
