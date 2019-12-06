@@ -30,3 +30,6 @@ $ sh run_train_tcd.sh
 ```
 ## Easy Testing
 
+## Note
+
+We are still cleaning the code. Please wait for more details.
